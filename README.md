@@ -3,6 +3,7 @@
 
 This is my fork of the Marlin firmware for the Creality Ender-3 using a BIGTREETECH SKR version 1.4 mainboard with TMC-2209 stepper motor drivers and a BL-Touch
 As of July 7th 2020 the firmware is updating to the latest Marlin 2.0.5.3 which was released March 31 2020
+Hope this helped ~ LittlemoneV
 
 # ORIGINAL DOCUMENTATION BELOW
 
