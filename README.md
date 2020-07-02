@@ -7,6 +7,11 @@ As of July 7th 2020 the firmware is updated to the latest Marlin 2.0.5.3 which w
 
 Hope this helped ~ LittlemoneV!
 
+# Releases
+
+The pre-compiled releases can be found here:
+https://github.com/LittlemoneV/Marlin/releases
+
 # ORIGINAL DOCUMENTATION BELOW
 
 # Marlin 3D Printer Firmware
